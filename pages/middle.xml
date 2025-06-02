@@ -5,12 +5,13 @@
     color="white"
     x="center"
     y="center"
-    font-size="70"
+    font-size="50"
   />
 
   <agent
     id="next_page_text"
     text="Proxima Pagina"
+    color="skyblue"
     animation="glitch"
     y="480"
     x="640"
