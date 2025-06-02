@@ -13,7 +13,7 @@
     text="Proxima Pagina"
     color="skyblue"
     animation="glitch"
-    y="800"
+    y="480"
     x="640"
     on_click="goToPage('middle')"
   />
